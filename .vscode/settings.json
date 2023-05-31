@@ -5,5 +5,6 @@
         "editor.insertSpaces": false,
         "editor.tabSize": 8,
         "editor.detectIndentation": true
-    }
+    },
+    "java.compile.nullAnalysis.mode": "automatic"
 }
